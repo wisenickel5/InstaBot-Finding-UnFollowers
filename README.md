@@ -2,6 +2,7 @@
 
 A bot powered with Selenium using Python utilizes OOP protocol to fetch those who have unfollowed you.
 
+## Program output:
 ![Output](InstaBot-output.JPG)
 
 The majority of the code is commented out for an easier understanding. Beware that Instagram is constantly changing their front end,
